@@ -11,7 +11,7 @@ Telegram:  <a href="https://t.me/tictak21">@tictak21</a>
 
 ```
 .
-├── hooke_jeeves
+├── 1
 │   ├── assets
 │   │   ├── f2_result.png
 │   │   ├── f2.png
@@ -20,6 +20,13 @@ Telegram:  <a href="https://t.me/tictak21">@tictak21</a>
 │   ├── HookeJeeves.py
 │   ├── README.md
 │   └── test.py
+├── 2
+│   ├── assets
+│   │   ├── p1.png
+│   │   └── p2.png
+│   ├── index.py
+│   └── README.md
+├── .gitignore
 └── README.md
 ```
 
