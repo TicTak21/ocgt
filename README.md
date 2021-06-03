@@ -26,6 +26,19 @@ Telegram:  <a href="https://t.me/tictak21">@tictak21</a>
 │   │   └── p2.png
 │   ├── index.py
 │   └── README.md
+├── 3
+│   ├── assets
+│   │   ├── 1.1.png
+│   │   └── 1.2.png
+│   ├── 3.ipynb
+│   ├── README.md
+│   └── протокол.docx
+├── 4
+│   ├── assets
+│   │   └── 1.1.png
+│   ├── 4.ipynb
+│   ├── README.md
+│   └── протокол.docx
 ├── .gitignore
 └── README.md
 ```
